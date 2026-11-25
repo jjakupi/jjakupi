@@ -1,6 +1,6 @@
 # Bonjour, je suis Jetmir 👋
 
-Étudiant à 42 Lausanne, je développe des projets en programmation, systèmes Linux et réseaux. Je m'intéresse particulièrement à la cybersécurité et à la façon de sécuriser des applications et des infrastructures.
+Étudiant à 42 Lausanne, je développe des projets en programmation, systèmes Linux et réseaux. Je m’intéresse à la programmation, aux réseaux et à la cybersécurité, et j’aimerais continuer à développer mes compétences dans ces domaines à travers des projets concrets.
 
 Je suis certifié CompTIA Security+ et je prépare actuellement le Cisco CCNA.
 
